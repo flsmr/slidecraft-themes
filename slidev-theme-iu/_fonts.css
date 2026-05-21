@@ -1,0 +1,134 @@
+/* Source Sans Pro / Source Sans 3 — Adobe open-source, mirrored locally so
+   the theme renders identically offline and inside Slidev's export pipeline. */
+
+/* Regular 400 */
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('/fonts/source-sans-pro-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('/fonts/source-sans-pro-regular-italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Semibold 600 */
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('/fonts/source-sans-pro-semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('/fonts/source-sans-pro-semibold-italic.woff2') format('woff2');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Bold 700 — the file that was missing from the previous mapping */
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('/fonts/source-sans-pro-bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('/fonts/source-sans-pro-bold-italic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Alias the Google Fonts name so either family name works */
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('/fonts/source-sans-pro-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('/fonts/source-sans-pro-semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('/fonts/source-sans-pro-bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Weight-suffix aliases — PPTX manifests sometimes ship "Source Sans Pro Bold"
+   as the family name.  generate-layouts.py now strips that suffix before
+   rendering, but these aliases keep any hand-written layout or external CSS
+   that still references the suffix-form name from falling back to system-ui. */
+@font-face {
+  font-family: 'Source Sans Pro Bold';
+  src: url('/fonts/source-sans-pro-bold.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans Pro Bold';
+  src: url('/fonts/source-sans-pro-bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans Pro Bold';
+  src: url('/fonts/source-sans-pro-bold-italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans Pro Bold';
+  src: url('/fonts/source-sans-pro-bold-italic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans Pro SemiBold';
+  src: url('/fonts/source-sans-pro-semibold.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans Pro SemiBold';
+  src: url('/fonts/source-sans-pro-semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans Pro SemiBold';
+  src: url('/fonts/source-sans-pro-semibold-italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans Pro SemiBold';
+  src: url('/fonts/source-sans-pro-semibold-italic.woff2') format('woff2');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}

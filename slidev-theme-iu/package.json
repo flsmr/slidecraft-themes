@@ -1,0 +1,30 @@
+{
+  "name": "slidev-theme-iug-ppt-master-update-en-v01",
+  "version": "0.1.0",
+  "description": "Slidev theme extracted from iug-ppt-master-update-en-v01 corporate template",
+  "author": "",
+  "license": "UNLICENSED",
+  "keywords": [
+    "slidev-theme",
+    "slidev"
+  ],
+  "dependencies": {
+    "unocss": "^66.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "slidev": ">=0.49.0"
+  },
+  "slidev": {
+    "colorSchema": "light",
+    "defaults": {
+      "fonts": {
+        "sans": "Source Sans Pro",
+        "serif": "Source Sans Pro",
+        "mono": "Fira Code, monospace",
+        "weights": "400,600,700"
+      },
+      "highlighter": "shiki"
+    }
+  }
+}

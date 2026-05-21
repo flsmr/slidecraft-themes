@@ -1,0 +1,141 @@
+{
+  "generated_by": "extract-assets.py",
+  "entries": [
+    {
+      "layout_slug": "l-1-titel-vollbild",
+      "shape_name": "Textplatzhalter 14",
+      "filename": "l-1-titel-vollbild__Textplatzhalter-14.svg",
+      "path": "public\\assets\\shapes\\l-1-titel-vollbild__Textplatzhalter-14.svg",
+      "viewBox": "0 0 10481728 1674234",
+      "sha256": "e93e6be416267d4166395f9a4cb29a26a61dfffc772e9f69363cf5c4adf4c258"
+    },
+    {
+      "layout_slug": "l-1-titel-schwarz",
+      "shape_name": "Textplatzhalter 14",
+      "filename": "l-1-titel-schwarz__Textplatzhalter-14.svg",
+      "path": "public\\assets\\shapes\\l-1-titel-schwarz__Textplatzhalter-14.svg",
+      "viewBox": "0 0 10481728 1674234",
+      "sha256": "e93e6be416267d4166395f9a4cb29a26a61dfffc772e9f69363cf5c4adf4c258"
+    },
+    {
+      "layout_slug": "titel-vollbild-gross",
+      "shape_name": "Textplatzhalter 14",
+      "filename": "titel-vollbild-gross__Textplatzhalter-14.svg",
+      "path": "public\\assets\\shapes\\titel-vollbild-gross__Textplatzhalter-14.svg",
+      "viewBox": "0 0 10481728 1674234",
+      "sha256": "e93e6be416267d4166395f9a4cb29a26a61dfffc772e9f69363cf5c4adf4c258"
+    },
+    {
+      "layout_slug": "titel-vollbild-mittel",
+      "shape_name": "Textplatzhalter 14",
+      "filename": "titel-vollbild-mittel__Textplatzhalter-14.svg",
+      "path": "public\\assets\\shapes\\titel-vollbild-mittel__Textplatzhalter-14.svg",
+      "viewBox": "0 0 10481728 1674234",
+      "sha256": "e93e6be416267d4166395f9a4cb29a26a61dfffc772e9f69363cf5c4adf4c258"
+    },
+    {
+      "layout_slug": "titel-vollbild-klein",
+      "shape_name": "Textplatzhalter 14",
+      "filename": "titel-vollbild-klein__Textplatzhalter-14.svg",
+      "path": "public\\assets\\shapes\\titel-vollbild-klein__Textplatzhalter-14.svg",
+      "viewBox": "0 0 10481728 1674234",
+      "sha256": "e93e6be416267d4166395f9a4cb29a26a61dfffc772e9f69363cf5c4adf4c258"
+    },
+    {
+      "layout_slug": "titel-schwarz-gross",
+      "shape_name": "Textplatzhalter 14",
+      "filename": "titel-schwarz-gross__Textplatzhalter-14.svg",
+      "path": "public\\assets\\shapes\\titel-schwarz-gross__Textplatzhalter-14.svg",
+      "viewBox": "0 0 10481728 1674234",
+      "sha256": "e93e6be416267d4166395f9a4cb29a26a61dfffc772e9f69363cf5c4adf4c258"
+    },
+    {
+      "layout_slug": "l-1-titel-schwarz-mittel",
+      "shape_name": "Textplatzhalter 14",
+      "filename": "l-1-titel-schwarz-mittel__Textplatzhalter-14.svg",
+      "path": "public\\assets\\shapes\\l-1-titel-schwarz-mittel__Textplatzhalter-14.svg",
+      "viewBox": "0 0 10481728 1674234",
+      "sha256": "e93e6be416267d4166395f9a4cb29a26a61dfffc772e9f69363cf5c4adf4c258"
+    },
+    {
+      "layout_slug": "l-2-titel-schwarz-klein",
+      "shape_name": "Textplatzhalter 14",
+      "filename": "l-2-titel-schwarz-klein__Textplatzhalter-14.svg",
+      "path": "public\\assets\\shapes\\l-2-titel-schwarz-klein__Textplatzhalter-14.svg",
+      "viewBox": "0 0 10481728 1674234",
+      "sha256": "e93e6be416267d4166395f9a4cb29a26a61dfffc772e9f69363cf5c4adf4c258"
+    },
+    {
+      "layout_slug": "kapiteleinstieg-mit-ubersicht",
+      "shape_name": "Bildplatzhalter 8",
+      "filename": "kapiteleinstieg-mit-ubersicht__Bildplatzhalter-8.svg",
+      "path": "public\\assets\\shapes\\kapiteleinstieg-mit-ubersicht__Bildplatzhalter-8.svg",
+      "viewBox": "0 0 6100068 6867786",
+      "sha256": "5de83d08dc1ec80a6b2f3239e9ba1ec817e35278e75f036da06b41bf03607a5b"
+    },
+    {
+      "layout_slug": "basic-text-1-bild-rechts",
+      "shape_name": "Bildplatzhalter 16",
+      "filename": "basic-text-1-bild-rechts__Bildplatzhalter-16.svg",
+      "path": "public\\assets\\shapes\\basic-text-1-bild-rechts__Bildplatzhalter-16.svg",
+      "viewBox": "0 0 7032625 4830467",
+      "sha256": "433b108c4f720b00cc098edb58c5ad5506b9b40e7af02a9d89bc13de27abb377"
+    },
+    {
+      "layout_slug": "basic-text-1-bild-links",
+      "shape_name": "Bildplatzhalter 16",
+      "filename": "basic-text-1-bild-links__Bildplatzhalter-16.svg",
+      "path": "public\\assets\\shapes\\basic-text-1-bild-links__Bildplatzhalter-16.svg",
+      "viewBox": "0 0 6096000 4722518",
+      "sha256": "adc240cc0cc79d098ace2275a85b23d61d5dba9eba6ef63c22cadba85dd1ea4d"
+    },
+    {
+      "layout_slug": "basic-text-1-bild-links-icons",
+      "shape_name": "Bildplatzhalter 16",
+      "filename": "basic-text-1-bild-links-icons__Bildplatzhalter-16.svg",
+      "path": "public\\assets\\shapes\\basic-text-1-bild-links-icons__Bildplatzhalter-16.svg",
+      "viewBox": "0 0 6096000 4722518",
+      "sha256": "adc240cc0cc79d098ace2275a85b23d61d5dba9eba6ef63c22cadba85dd1ea4d"
+    },
+    {
+      "layout_slug": "farbe-text-1-bild",
+      "shape_name": "Bildplatzhalter 16",
+      "filename": "farbe-text-1-bild__Bildplatzhalter-16.svg",
+      "path": "public\\assets\\shapes\\farbe-text-1-bild__Bildplatzhalter-16.svg",
+      "viewBox": "0 0 7032625 4830467",
+      "sha256": "433b108c4f720b00cc098edb58c5ad5506b9b40e7af02a9d89bc13de27abb377"
+    },
+    {
+      "layout_slug": "headline-1z-grafik-oben-schwarz",
+      "shape_name": "Freihandform 25",
+      "filename": "headline-1z-grafik-oben-schwarz__Freihandform-25.svg",
+      "path": "public\\assets\\shapes\\headline-1z-grafik-oben-schwarz__Freihandform-25.svg",
+      "viewBox": "0 0 12192000 4454264",
+      "sha256": "8c2a33d6c5d3954055a9e85b179a52f17cbb7075a67152f7bf26dabc6630da39"
+    },
+    {
+      "layout_slug": "headline-1z-grafik-oben-weiss",
+      "shape_name": "Freihandform 21",
+      "filename": "headline-1z-grafik-oben-weiss__Freihandform-21.svg",
+      "path": "public\\assets\\shapes\\headline-1z-grafik-oben-weiss__Freihandform-21.svg",
+      "viewBox": "0 0 12192000 3227627",
+      "sha256": "ca37207a7913546b9278f22a7f4891a5ca33ed201d17992bff812130e358c508"
+    },
+    {
+      "layout_slug": "headline-2z-facts-schwarz-grun",
+      "shape_name": "Freihandform 34",
+      "filename": "headline-2z-facts-schwarz-grun__Freihandform-34.svg",
+      "path": "public\\assets\\shapes\\headline-2z-facts-schwarz-grun__Freihandform-34.svg",
+      "viewBox": "0 0 12192000 5324520",
+      "sha256": "dff63f4b7a20b7d51c7f80858f41999985778616eab6e62b1a91b43c5565ab12"
+    },
+    {
+      "layout_slug": "headline-facts-weiss-farbe",
+      "shape_name": "Freihandform 34",
+      "filename": "headline-facts-weiss-farbe__Freihandform-34.svg",
+      "path": "public\\assets\\shapes\\headline-facts-weiss-farbe__Freihandform-34.svg",
+      "viewBox": "0 0 12192000 5324520",
+      "sha256": "dff63f4b7a20b7d51c7f80858f41999985778616eab6e62b1a91b43c5565ab12"
+    }
+  ]
+}

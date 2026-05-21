@@ -1,0 +1,459 @@
+{
+  "trenner-marketing": [],
+  "l-1-titel-vollbild": [
+    "picture-0",
+    "picture-1",
+    "picture-2",
+    ""
+  ],
+  "l-1-titel-schwarz": [
+    ""
+  ],
+  "titel-vollbild-gross": [
+    "picture-0",
+    "",
+    "picture-1",
+    "picture-2",
+    "title",
+    "body-1",
+    "body-2",
+    "body-3"
+  ],
+  "titel-vollbild-mittel": [
+    "picture-0",
+    "",
+    "picture-1",
+    "picture-2",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4"
+  ],
+  "titel-vollbild-klein": [
+    "picture-0",
+    "",
+    "picture-1",
+    "picture-2",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4"
+  ],
+  "titel-schwarz-gross": [
+    "",
+    "title",
+    "body-1",
+    "body-2",
+    "body-3"
+  ],
+  "l-1-titel-schwarz-mittel": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4"
+  ],
+  "l-2-titel-schwarz-klein": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4"
+  ],
+  "kapiteleinstieg-primarfarbe": [
+    "title",
+    "",
+    "body-1"
+  ],
+  "kapiteleinstieg-primarfarbe-mit-zusatzinfo": [
+    "title",
+    "",
+    "body-1",
+    "body-2",
+    "body-3"
+  ],
+  "kapiteleinstieg-grau": [
+    "title",
+    "",
+    "body-1"
+  ],
+  "kapiteleinstieg-mit-ubersicht": [
+    "picture-0",
+    "title",
+    "",
+    "body-1",
+    "picture-1"
+  ],
+  "trenner-basic-2z": [],
+  "basic-text-1-spalte": [
+    "date",
+    "",
+    "title",
+    "body-1"
+  ],
+  "basic-text-2-spalten": [
+    "",
+    "body-1",
+    "title",
+    "body-2"
+  ],
+  "basic-text-2-spalten-minititel": [
+    "",
+    "body-1",
+    "title",
+    "body-2",
+    "body-3",
+    "body-4",
+    "body-5",
+    "body-6"
+  ],
+  "basic-text-3-spalten": [
+    "",
+    "body-1",
+    "body-2",
+    "title",
+    "body-3"
+  ],
+  "basic-text-1-bild-rechts": [
+    "picture-0",
+    "",
+    "title",
+    "body-1"
+  ],
+  "basic-text-1-bild-links": [
+    "picture-0",
+    "",
+    "title",
+    "body-1"
+  ],
+  "basic-text-1-bild-links-icons": [
+    "picture-0",
+    "",
+    "title",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4",
+    "picture-1",
+    "picture-2",
+    "picture-3",
+    "picture-4"
+  ],
+  "basic-text-2-bilder": [
+    "",
+    "picture-0",
+    "picture-1",
+    "title",
+    "body-1"
+  ],
+  "basic-text-4-spalten-4-bilder": [
+    "",
+    "picture-0",
+    "title",
+    "body-1",
+    "picture-1",
+    "picture-2",
+    "picture-3",
+    "body-2",
+    "body-3",
+    "body-4",
+    "body-5",
+    "body-6",
+    "body-7",
+    "body-8"
+  ],
+  "basic-text-marginalspalte-schmal": [
+    "",
+    "title",
+    "body-1",
+    "body-2"
+  ],
+  "basic-text-marginalspalte-breit": [
+    "",
+    "title",
+    "body-1",
+    "body-2"
+  ],
+  "l-1-basic-text-1-spalte-ziffer": [
+    "",
+    "date",
+    "body-1",
+    "title",
+    "body-2"
+  ],
+  "l-1-basic-text-1-spalte-icon": [
+    "date",
+    "",
+    "title",
+    "body-1",
+    "picture-0"
+  ],
+  "trenner-extra-2z": [],
+  "farbe-text-1-spalte": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3"
+  ],
+  "farbe-text-2-spalten": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4"
+  ],
+  "farbe-text-3-spalten": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4",
+    "body-5"
+  ],
+  "farbe-text-1-bild": [
+    "picture-0",
+    "",
+    "body-1",
+    "body-2",
+    "body-3"
+  ],
+  "farbe-text-2-bilder": [
+    "",
+    "picture-0",
+    "picture-1",
+    "body-1",
+    "body-2",
+    "body-3"
+  ],
+  "farbe-text-marginalspalte-schmal": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4"
+  ],
+  "farbe-text-marginalspalte-breit": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4"
+  ],
+  "farbe-text-1-spalte-icon": [
+    "date",
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "picture-0"
+  ],
+  "trenner-specials": [],
+  "headline-1z-grafik-oben-schwarz": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4",
+    "body-5",
+    "body-6",
+    "body-7",
+    "body-8"
+  ],
+  "headline-1z-grafik-oben-weiss": [
+    "chart-0",
+    "chart-1",
+    "chart-2",
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4",
+    "body-5"
+  ],
+  "headline-2z-facts-schwarz": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4",
+    "body-5",
+    "body-6",
+    "body-7",
+    "body-8",
+    "body-9",
+    "body-10",
+    "body-11",
+    "body-12",
+    "body-13",
+    "body-14",
+    "body-15",
+    "body-16",
+    "body-17"
+  ],
+  "headline-2z-facts-schwarz-grun": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4",
+    "body-5",
+    "body-6",
+    "body-7",
+    "body-8",
+    "body-9",
+    "body-10",
+    "body-11",
+    "body-12",
+    "body-13",
+    "body-14",
+    "body-15",
+    "body-16",
+    "body-17"
+  ],
+  "headline-facts-weiss-farbe": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4",
+    "body-5",
+    "body-6",
+    "body-7",
+    "body-8",
+    "body-9",
+    "body-10",
+    "body-11",
+    "body-12",
+    "body-13",
+    "body-14",
+    "body-15",
+    "body-16",
+    "body-17"
+  ],
+  "zitat": [
+    "title"
+  ],
+  "zitat-auf-farbe": [
+    "title"
+  ],
+  "danke": [
+    "",
+    "body-1",
+    "title"
+  ],
+  "default": [
+    "date",
+    "",
+    "title",
+    "body-1"
+  ],
+  "section": [
+    "title",
+    "",
+    "body-1"
+  ],
+  "section-gray": [
+    "title",
+    "",
+    "body-1"
+  ],
+  "section-overview": [
+    "picture-0",
+    "title",
+    "",
+    "body-1",
+    "picture-1"
+  ],
+  "divider": [],
+  "side-note": [
+    "",
+    "title",
+    "body-1",
+    "body-2"
+  ],
+  "two-cols": [
+    "",
+    "body-1",
+    "title",
+    "body-2"
+  ],
+  "three-cols": [
+    "",
+    "body-1",
+    "body-2",
+    "title",
+    "body-3"
+  ],
+  "agenda": [
+    "",
+    "body-1",
+    "title",
+    "body-2"
+  ],
+  "accent": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3"
+  ],
+  "fact": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4",
+    "body-5",
+    "body-6",
+    "body-7",
+    "body-8",
+    "body-9",
+    "body-10",
+    "body-11",
+    "body-12",
+    "body-13",
+    "body-14",
+    "body-15",
+    "body-16",
+    "body-17"
+  ],
+  "fact-light": [
+    "",
+    "body-1",
+    "body-2",
+    "body-3",
+    "body-4",
+    "body-5",
+    "body-6",
+    "body-7",
+    "body-8",
+    "body-9",
+    "body-10",
+    "body-11",
+    "body-12",
+    "body-13",
+    "body-14",
+    "body-15",
+    "body-16",
+    "body-17"
+  ],
+  "quote": [
+    "title"
+  ],
+  "end": [
+    "",
+    "body-1",
+    "title"
+  ],
+  "cover": [
+    "picture-0",
+    "picture-1",
+    "picture-2",
+    ""
+  ],
+  "image-right": [
+    "picture-0",
+    "",
+    "title",
+    "body-1"
+  ]
+}

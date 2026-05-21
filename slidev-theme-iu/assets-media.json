@@ -1,0 +1,117 @@
+{
+  "generated_by": "extract-assets.py",
+  "entries": [
+    {
+      "source": "ppt/media/image10.svg",
+      "dest": "public\\assets\\media\\image10.svg",
+      "sha256": "7dde402bc2588046c7a3506e17be001b60658c07388aba79910205ba317b5639",
+      "ext": ".svg",
+      "bytes": 1296
+    },
+    {
+      "source": "ppt/media/image11.png",
+      "dest": "public\\assets\\media\\image11.png",
+      "sha256": "a1a3798a4bcc2d1f95066f4b7a65f8b321b71583c6f9a8cc53310b63b5136178",
+      "ext": ".png",
+      "bytes": 515376
+    },
+    {
+      "source": "ppt/media/image12.png",
+      "dest": "public\\assets\\media\\image12.png",
+      "sha256": "bf5818a45e248efa94560b57f6dcda773a603441b1e2a48c335fa57a11f9f6b1",
+      "ext": ".png",
+      "bytes": 2507
+    },
+    {
+      "source": "ppt/media/image13.svg",
+      "dest": "public\\assets\\media\\image13.svg",
+      "sha256": "2bd857c39151f30cb12192bcc3bd82bfb53a06ce602de857f9d04c455949056b",
+      "ext": ".svg",
+      "bytes": 1851
+    },
+    {
+      "source": "ppt/media/image14.jpg",
+      "dest": "public\\assets\\media\\image14.jpg",
+      "sha256": "0ce901f5089c965576dcf11d1bdcc8ae33b51afd6001e6dfd2f1beb644556df5",
+      "ext": ".jpg",
+      "bytes": 168914
+    },
+    {
+      "source": "ppt/media/image15.jpg",
+      "dest": "public\\assets\\media\\image15.jpg",
+      "sha256": "d76cb46d583668116f31c1b69b865c4ca25d0861197814fce36a7cf942a6e66d",
+      "ext": ".jpg",
+      "bytes": 55360
+    },
+    {
+      "source": "ppt/media/image16.jpg",
+      "dest": "public\\assets\\media\\image16.jpg",
+      "sha256": "f539e099ee18c7f1e2885c6b89f1491d9e51bdcd5bbee739999291879cf68c81",
+      "ext": ".jpg",
+      "bytes": 86146
+    },
+    {
+      "source": "ppt/media/image8.svg",
+      "dest": "public\\assets\\media\\image8.svg",
+      "sha256": "d7a326fb82e2da21334835c4b3a2b8b435aa6256414b12d3f145c3e5cf6518d7",
+      "ext": ".svg",
+      "bytes": 933
+    },
+    {
+      "source": "ppt/media/image7.png",
+      "dest": "public\\assets\\media\\image7.png",
+      "sha256": "dab501718e19589578d7d6629b97a1be6d3e2158ee824873874c1d49409c3225",
+      "ext": ".png",
+      "bytes": 1335
+    },
+    {
+      "source": "ppt/media/image5.png",
+      "dest": "public\\assets\\media\\image5.png",
+      "sha256": "23406edf3204fb44df2a06453f67d053c89ad5bc3abb19986c7114882f945604",
+      "ext": ".png",
+      "bytes": 26880
+    },
+    {
+      "source": "ppt/media/image9.png",
+      "dest": "public\\assets\\media\\image9.png",
+      "sha256": "837964cfdde351558b76a0cc2e57d59967451ae08df3d0f76e6cf83ac90e538b",
+      "ext": ".png",
+      "bytes": 1583
+    },
+    {
+      "source": "ppt/media/image6.svg",
+      "dest": "public\\assets\\media\\image6.svg",
+      "sha256": "27904e5e72296a2be0413f5448199c1ea4fc2d78433629e6d258051f0f82796b",
+      "ext": ".svg",
+      "bytes": 360
+    },
+    {
+      "source": "ppt/media/image4.svg",
+      "dest": "public\\assets\\media\\image4.svg",
+      "sha256": "7190a360d54298bbd9b0588ea658d744e78c0a062074442a27cd1e9c88517b32",
+      "ext": ".svg",
+      "bytes": 3485
+    },
+    {
+      "source": "ppt/media/image3.png",
+      "dest": "public\\assets\\media\\image3.png",
+      "sha256": "edd4ba8b28390f66473711e1ecdb124430b1e47e95122657baba306aff6858a5",
+      "ext": ".png",
+      "bytes": 40612
+    },
+    {
+      "source": "ppt/media/image2.svg",
+      "dest": "public\\assets\\media\\image2.svg",
+      "sha256": "34e19bba54992a2fe76216fe5a0fe365ff3be53651896480a140e7fdc5ae16c9",
+      "ext": ".svg",
+      "bytes": 3485
+    },
+    {
+      "source": "ppt/media/image1.png",
+      "dest": "public\\assets\\media\\image1.png",
+      "sha256": "74dd38b66a9350e1aa8ed84cc1f0ae0f153bea6be15af551db6759a6c27b0175",
+      "ext": ".png",
+      "bytes": 40168
+    }
+  ]
+}
